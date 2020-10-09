@@ -6,13 +6,13 @@ body{
   font-family: sans-serif;
   background: #34495e;
 }
-////////////////////////////////////////////// STYLE 1
+
 .box{
   width: 300px;
   padding: 20px;
   margin-top: 20px;
   margin-left: 20px;
-  background: #191919;#
+  background: #191919;
   text-align: center;
 }
 
@@ -63,9 +63,6 @@ body{
   background: #2ecc71;
   transition: 0.25s;
 }
-
-
-////////////////////////////// TYPE 2
 
 .login-box{
   width:280px;
